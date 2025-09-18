@@ -1,14 +1,17 @@
-name: Update README
+name: Update GitHub Profile Stats
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 jobs:
-  build:
+  update-readme:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
       - name: Generate GitHub Stats
         uses: anuraghazra/github-readme-stats@master
         with:
