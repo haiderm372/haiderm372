@@ -1,146 +1,125 @@
-<!-- ===== HEADER ===== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Haider+%F0%9F%91%8B;Full-Stack+Developer;Backend+%2B+Cloud+%2B+Mobile;IoT+%26+Connected+Devices+Tinkerer" alt="typing" />
-</h1>
+<!-- ============ HEADER ============ -->
+<h1 align="center">Haider</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
-<p align="center">
-  I build products end to end — clean web frontends, solid APIs, cloud infrastructure,
-  <br />cross-platform mobile apps, and firmware-adjacent work on connected IoT hardware.
+  Full-Stack Developer &nbsp;·&nbsp; Backend &amp; Cloud &nbsp;·&nbsp; Mobile &nbsp;·&nbsp; IoT
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/haiderm372/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  &nbsp;
   <a href="https://x.com/iam__haider">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" />
   </a>
+  &nbsp;
   <a href="mailto:haiderm372@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=haiderm372&style=for-the-badge&color=7aa2f7&label=PROFILE+VIEWS" alt="profile views" />
 </p>
 
 <br />
 
-<!-- ===== ABOUT ===== -->
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=haiderm372&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&icon_color=7aa2f7&title_color=7aa2f7&bg_color=1a1b27" alt="stats" />
+<!-- ============ ABOUT ============ -->
 
-### ⚡ About me
+## About
 
-```yaml
-name: Haider
-role: Full-Stack Developer
-focus: [web, backend, cloud, mobile, IoT]
-backend: [Node.js, FastAPI]
-mobile: Flutter
-loves: small tested code, effortless UI, AWS internals
-hardware: E-Bike & E-Scooter fleets (OMNI, ZK)
-```
+I build and ship products end to end — web frontends, backend APIs, cloud
+infrastructure, and cross-platform mobile apps. I've also worked close to the
+hardware, building control and telemetry systems for shared **E-Bike and
+E-Scooter fleets** (OMNI and ZK).
 
-- 🔭 Shipping full-stack products from database to pixel
-- ☁️ Deep in AWS — CodePipeline, EB, ALB, Route 53, EC2, ACM, S3, CloudFront
-- 📡 Built control + telemetry systems for **E-Bikes / E-Scooters** (OMNI & ZK)
-- 💬 Ask me about APIs, cloud architecture, real-time comms, or Flutter
+- Backends in **Node.js** and **FastAPI**, deployed on **AWS**
+- Comfortable across the AWS stack — CodePipeline, Elastic Beanstalk, ALB,
+  Route 53, EC2, ACM, S3, CloudFront
+- Mobile apps with **Flutter**
+- Real-time voice, video and messaging with **Agora**, **ZEGOCLOUD** and **Twilio**
 
-<br clear="right" />
+<br />
 
----
+<!-- ============ TECH STACK ============ -->
 
-<!-- ===== TECH STACK ===== -->
-<h3 align="center">🛠️ Tech Stack</h3>
+## Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts,dart,python,kotlin,swift,php,html,css" alt="languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" alt="backend" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgres" alt="databases" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Mobile</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=flutter" alt="mobile" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps / Cloud</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=vercel,aws,azure,gcp,docker,githubactions" alt="devops" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Storage</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
-      <img src="https://img.shields.io/badge/CloudFront_R2-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
-      <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>AWS Services</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/CodePipeline-FF9900?style=flat-square&logo=awscodepipeline&logoColor=white" />
-      <img src="https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-      <img src="https://img.shields.io/badge/ALB-8C4FFF?style=flat-square&logo=awselasticloadbalancing&logoColor=white" />
-      <img src="https://img.shields.io/badge/Route_53-8C4FFF?style=flat-square&logo=amazonroute53&logoColor=white" />
-      <img src="https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" />
-      <img src="https://img.shields.io/badge/ACM-DD344C?style=flat-square&logo=amazonaws&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Real-time / Comms</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Agora-099DFD?style=flat-square&logo=agora&logoColor=white" />
-      <img src="https://img.shields.io/badge/ZEGOCLOUD-0055FF?style=flat-square&logoColor=white" />
-      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>IoT / Hardware</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/E--Bike_Fleet-2EA44F?style=flat-square&logo=bmwi&logoColor=white" />
-      <img src="https://img.shields.io/badge/E--Scooter_Fleet-2EA44F?style=flat-square&logo=lime&logoColor=white" />
-      <img src="https://img.shields.io/badge/OMNI-1A1B27?style=flat-square" />
-      <img src="https://img.shields.io/badge/ZK-1A1B27?style=flat-square" />
-    </td>
-  </tr>
-</table>
+**Languages**
 
----
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-<!-- ===== STATS ===== -->
-<h3 align="center">📊 GitHub Stats</h3>
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+**Mobile**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Cloud &amp; DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+**Storage**
+
+![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
+
+**AWS Services**
+
+![CodePipeline](https://img.shields.io/badge/CodePipeline-C925D1?style=flat&logo=awscodepipeline&logoColor=white)
+![Elastic Beanstalk](https://img.shields.io/badge/Elastic_Beanstalk-FF9900?style=flat&logo=amazonwebservices&logoColor=white)
+![ALB](https://img.shields.io/badge/Application_Load_Balancer-8C4FFF?style=flat&logo=awselasticloadbalancing&logoColor=white)
+![Route 53](https://img.shields.io/badge/Route_53-8C4FFF?style=flat&logo=amazonroute53&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
+![ACM](https://img.shields.io/badge/Certificate_Manager-DD344C?style=flat&logo=amazonwebservices&logoColor=white)
+
+**Real-time &amp; Comms**
+
+![Agora](https://img.shields.io/badge/Agora-099DFD?style=flat&logo=agora&logoColor=white)
+![ZEGOCLOUD](https://img.shields.io/badge/ZEGOCLOUD-0F62FE?style=flat&logoColor=white)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat&logo=twilio&logoColor=white)
+
+**IoT / Hardware**
+
+![E-Bike](https://img.shields.io/badge/E--Bike_Fleets-2EA44F?style=flat&logoColor=white)
+![E-Scooter](https://img.shields.io/badge/E--Scooter_Fleets-2EA44F?style=flat&logoColor=white)
+![OMNI](https://img.shields.io/badge/OMNI-1F2328?style=flat)
+![ZK](https://img.shields.io/badge/ZK-1F2328?style=flat)
+
+<br />
+
+<!-- ============ GITHUB STATS ============ -->
+
+## GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderm372&layout=compact&hide_border=true&langs_count=10&theme=tokyonight&title_color=7aa2f7&bg_color=1a1b27" alt="top langs" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=haiderm372&hide_border=true&theme=tokyonight&background=1A1B27&stroke=7aa2f7&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haiderm372&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=0969da&icon_color=0969da&text_color=57606a&bg_color=ffffff#gh-light-mode-only" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=haiderm372&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=7aa2f7&icon_color=7aa2f7&bg_color=1a1b27#gh-dark-mode-only" alt="stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderm372&layout=compact&hide_border=true&langs_count=8&title_color=0969da&text_color=57606a&bg_color=ffffff#gh-light-mode-only" alt="top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haiderm372&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=7aa2f7&bg_color=1a1b27#gh-dark-mode-only" alt="top languages" />
 </p>
+
+<br />
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=haiderm372&hide_border=true&bg_color=1a1b27&color=7aa2f7&line=bb9af7&point=ffffff&area=true" alt="activity graph" />
+  <img src="https://komarev.com/ghpvc/?username=haiderm372&style=flat&color=blue&label=Profile+views" alt="profile views" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haiderm372&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="trophies" />
-</p>
-
----
-
-<p align="center"><i>Thanks for stopping by — let's build something.</i></p>
