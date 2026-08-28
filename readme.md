@@ -1,8 +1,7 @@
 <h1 align="center">Haider — Software Developer</h1>
 
 <p align="center">
-  I design and build web, backend, mobile, and cloud systems — and have worked
-  on connected IoT hardware for shared E-Bike and E-Scooter fleets.
+  Building reliable web, backend, mobile, and IoT-connected applications on modern cloud infrastructure.
 </p>
 
 <br />
